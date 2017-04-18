@@ -1,0 +1,15 @@
+h1{
+  color: #b642f4;
+}
+div{
+  text-decoration: underline;
+  display:inline-block;
+}
+
+h2{
+  color:#54a043;
+}
+strong{
+  color:black;
+  text-decoration: underline;
+}
